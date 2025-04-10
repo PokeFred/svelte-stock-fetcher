@@ -1,0 +1,15 @@
+# IDE Stuff
+.idea/**
+.vscode/**
+
+# Folders
+node_modules/**
+.svelte-kit/**
+build/**
+
+# Files
+.env
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
